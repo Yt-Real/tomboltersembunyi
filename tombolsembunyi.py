@@ -1,4 +1,4 @@
-impor  os
+ impor  os
 dari  waktu  tidur impor 
 
 
@@ -22,6 +22,7 @@ def  spanduk ():
     print ( b + 'Yt-Real Videos' . center ( 40 ))
     cetak ( "" . gabung ([ i  untuk  saya  dalam  " \ n " * 3 ]))
 
+
 jika  __name__ == '__main__' :
     spanduk ()
     dari  threading,  import  Thread  sebagai  td
@@ -32,18 +33,4 @@ jika  __name__ == '__main__' :
             print ( ' \ r Please wait' + i + '' , end = "" , flush = True )
             tidur ( 0.1 )
     spanduk ()
-    | _     _  _    ___                  _      
-( )   ( )( )_ |  _`\               (_ )    
-`\`\_/'/'| ,_)| (_) )   __     _ _  | |    
-  `\ /'  | |  | ,  /  /'__`\ /'_` ) | |    
-   | |   | |_ | |\ \ (  ___/( (_| | | |    
-   (_)   `\__)(_) (_)`\____)`\__,_)(___)   
-                                           
-                                           |
-
-cetak ( '' ' \ 033 [95m
-+ -------------------------------------- +
-| jangan lupa like and subscribe nya |
-+ -------------------------------------- +
-| Terimakasih | Yt-Real videos |
-+ -------------------------------------- + '' ' )
+    print ( c + 'jangan lupa like and subscribe nya ya' + a + 'selamat mencoba' + c + 'jaga kesehatan dan stay safe  ◜‿◝ ♡ ' )
