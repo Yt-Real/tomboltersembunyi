@@ -18,7 +18,21 @@ c  = ' \ 033 [0m'
 
 def  spanduk ():
     os . sistem ( 'jelas' )
-| _     _  _    ___                  _      
+    print ( a + 'Shortcut for help you' . center ( 40 ))
+    print ( b + 'Yt-Real Videos' . center ( 40 ))
+    cetak ( "" . gabung ([ i  untuk  saya  dalam  " \ n " * 3 ]))
+
+jika  __name__ == '__main__' :
+    spanduk ()
+    dari  threading,  import  Thread  sebagai  td
+    t  =  td ( target = setup )
+    t . mulai ()
+    sementara  t . is_alive ():
+        untuk  saya  di  "- \ | / - \ | /" :
+            print ( ' \ r Please wait' + i + '' , end = "" , flush = True )
+            tidur ( 0.1 )
+    spanduk ()
+    | _     _  _    ___                  _      
 ( )   ( )( )_ |  _`\               (_ )    
 `\`\_/'/'| ,_)| (_) )   __     _ _  | |    
   `\ /'  | |  | ,  /  /'__`\ /'_` ) | |    
@@ -33,16 +47,3 @@ cetak ( '' ' \ 033 [95m
 + -------------------------------------- +
 | Terimakasih | Yt-Real videos |
 + -------------------------------------- + '' ' )
-
-
-jika  __name__ == '__main__' :
-    spanduk ()
-    dari  threading,  import  Thread  sebagai  td
-    t  =  td ( target = setup )
-    t . mulai ()
-    sementara  t . is_alive ():
-        untuk  saya  di  "- \ | / - \ | /" :
-            print ( ' \ r Please wait' + i + '' , end = "" , flush = True )
-            tidur ( 0.1 )
-    spanduk ()
-    print ( c + 'jangan lupa like and subscribe nya ya' + a + 'selamat mencoba' + c + 'jaga kesehatan dan stay safe  ◜‿◝ ♡ ' )
